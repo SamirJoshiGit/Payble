@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-payble = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+payble = "5FePENF8rtAjLxiejbZ1bFKLC1GfBjYGiUtWTsdDtfZz"
 
 [registry]
 url = "https://api.apr.dev"
